@@ -22,7 +22,7 @@
 - [Proje Adı](https://github.com/kullaniciadiniz/projeadi): Proje açıklaması.
 
 ## İstatistiklerim
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliibyrm&show_icons=true&theme=radical)
 
 ## Son Blog Yazılarım
 - [Blog Yazısı 1](https://bloglinki.com)
