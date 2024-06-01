@@ -1,32 +1,35 @@
 # Merhaba, Ben Ali!
 
-![Profil Fotoğrafı](https://linktoyourprofilepic.com)
+
 
 ## Hakkımda
-- 🔭 Şu anda [proje adı] üzerinde çalışıyorum
-- 🌱 Şu anda [öğrenmekte olduğun konu] öğreniyorum
-- 👯 [iş birliği yapmak istediğin projeler]
-- 🤔 [yardım istediğin konular]
-- 💬 Bana [iletişim kanalı] üzerinden ulaşabilirsin
-- ⚡ İlginç bir gerçek: [ilginç bir gerçek]
+- 🔭 Şu anda İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.
+
 
 ## Diller ve Araçlar
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<!-- Daha fazla simge ekleyebilirsiniz -->
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+
 
 <br />
 <br />
 
 ## Öne Çıkan Projeler
-- [Proje Adı](https://github.com/kullaniciadiniz/projeadi): Proje açıklaması.
+- [NovaNest]([https://github.com/kullaniciadiniz/projeadi](https://github.com/aliibyrm/NovaNest-E-Commerce)): Bu projede, e-ticaret platformlarında ürün yorumlarından duygu analizi yapılarak kullanıcılara sepet tahminleri sunulması hedeflenmiştir.
+- 
 
 ## İstatistiklerim
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliibyrm&show_icons=true&theme=radical)
 
 ## Son Blog Yazılarım
-- [Blog Yazısı 1](https://bloglinki.com)
-- [Blog Yazısı 2](https://bloglinki.com)
+- [FastApi]([https://bloglinki.com](https://medium.com/@alibayram-02/fastapi-b9aed1611dad))
+- [Yazılım Geliştirme Yaşam Döngüsü]([https://bloglinki.com](https://medium.com/@alibayram-02/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-8c98bc2c8af1))
 
-## Bana Kahve Ismarlayın
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kullaniciadiniz&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/kullaniciadiniz)
