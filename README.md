@@ -30,6 +30,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliibyrm&show_icons=true&theme=radical)
 
 ## Son Blog Yazılarım
-- [FastApi]([https://bloglinki.com](https://medium.com/@alibayram-02/fastapi-b9aed1611dad))
-- [Yazılım Geliştirme Yaşam Döngüsü]([https://bloglinki.com](https://medium.com/@alibayram-02/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-8c98bc2c8af1))
-
+- [FastApi](https://bloglinki.com](https://medium.com/@alibayram-02/fastapi-b9aed1611dad)
+- [Yazılım Geliştirme Yaşam Döngüsü]([https://bloglinki.com](https://bloglinki.com](https://medium.com/@alibayram-02/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-8c98bc2c8af1))
