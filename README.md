@@ -3,7 +3,7 @@
 
 
 ## Hakkımda
-- 🔭 Şu anda İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği 4. Sınıf Öğrencisiyim.
+- 🔭 Şu anda Carbon Consulting şirketinde Data Scientist olarak çalışıyorum.
 
 
 ## Diller ve Araçlar
