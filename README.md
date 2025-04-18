@@ -33,3 +33,4 @@
 ## Son Blog Yazılarım
 - [FastApi](https://medium.com/@alibayram-02/fastapi-b9aed1611dad)
 - [Yazılım Geliştirme Yaşam Döngüsü](https://bloglinki.com](https://medium.com/@alibayram-02/yaz%C4%B1l%C4%B1m-geli%C5%9Ftirme-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-8c98bc2c8af1))
+- [Agentic AI] (https://medium.com/@alibayram-02/ai-agentlar-nedir-1dae89cc6531)
